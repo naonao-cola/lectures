@@ -230,3 +230,7 @@ Speakers: Mengdi Wu, Xinhao Cheng
 ## Lecture 84: Numerics and AI
 Speaker: Paulius Micikevicius
 - [Slides](lecture_084)
+
+## Lecture 86: Introduction to CuTeDSL (for NVIDIA competition)
+Speaker: Vicki Wang
+- [Slides](lecture_086)
