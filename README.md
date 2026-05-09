@@ -242,3 +242,6 @@ Speaker: Jack Carlisle and Jay Shah
 ## Lecture 104: Gluon: Tile-Based GPU Programming with Low-Level Control
 Speakers: Peter Bell, Mario Lezcano, Keren Zhou
 - [Slides and notes](lecture_104)
+
+## Lecture 106: HF kernels
+- [Slides](https://docs.google.com/presentation/d/1RibAIrOJv0BcAx2QjNYHDZCrMfGYifTggtKT6uwv7CY/edit)
